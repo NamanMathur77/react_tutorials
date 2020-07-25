@@ -1,0 +1,72 @@
+[2020-06-28 22:40:00.718] [exthost] [info] extension host started
+[2020-06-28 22:40:00.784] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-06-28 22:40:00.784] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-28 22:40:00.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-28 22:40:00.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-28 22:40:00.799] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-28 22:40:00.799] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-28 22:40:00.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-28 22:40:00.851] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-28 22:40:00.935] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-28 22:40:00.935] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-28 22:40:00.943] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-28 22:40:00.943] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-28 22:40:00.945] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-28 22:40:00.945] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-06-28 22:40:00.949] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-28 22:40:00.949] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-28 22:40:00.978] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-28 22:40:00.978] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.1.1/client/out/extension
+[2020-06-28 22:40:01.009] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-28 22:40:01.009] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/esbenp.prettier-vscode-5.1.0/dist/extension
+[2020-06-28 22:40:01.219] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-06-28 22:40:01.219] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-06-28 22:40:01.293] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"extensionId":{"value":"kamikillerto.vscode-colorize","_lower":"kamikillerto.vscode-colorize"},"activationEvent":"*"}
+[2020-06-28 22:40:01.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/kamikillerto.vscode-colorize-0.8.17/out/src/extension
+[2020-06-28 22:40:01.335] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-06-28 22:40:01.335] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-06-28 22:40:01.337] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-06-28 22:40:01.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-06-28 22:40:01.855] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2020-06-28 22:40:01.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/robbowen.synthwave-vscode-0.1.5/src/extension.js
+[2020-06-28 22:40:01.864] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-06-28 22:40:01.865] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-06-28 22:40:01.927] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2020-06-28 22:40:01.928] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/wallabyjs.quokka-vscode-1.0.301/index
+[2020-06-28 22:40:01.929] [exthost] [info] eager extensions activated
+[2020-06-28 22:40:36.275] [exthost] [info] extension host started
+[2020-06-28 22:40:36.323] [exthost] [info] ExtensionService#_doActivateExtension aaron-bond.better-comments {"startup":false,"extensionId":{"value":"aaron-bond.better-comments","_lower":"aaron-bond.better-comments"},"activationEvent":"onLanguage:plaintext"}
+[2020-06-28 22:40:36.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/aaron-bond.better-comments-2.0.5/out/extension
+[2020-06-28 22:40:36.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-06-28 22:40:36.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-06-28 22:40:36.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-06-28 22:40:36.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-06-28 22:40:36.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-06-28 22:40:36.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2020-06-28 22:40:36.371] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-06-28 22:40:36.371] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-06-28 22:40:36.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-06-28 22:40:36.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-06-28 22:40:36.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-06-28 22:40:36.375] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-06-28 22:40:36.377] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer {"startup":true,"extensionId":{"value":"CoenraadS.bracket-pair-colorizer","_lower":"coenraads.bracket-pair-colorizer"},"activationEvent":"*"}
+[2020-06-28 22:40:36.377] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2020-06-28 22:40:36.395] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-06-28 22:40:36.395] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/dbaeumer.vscode-eslint-2.1.1/client/out/extension
+[2020-06-28 22:40:36.402] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-06-28 22:40:36.402] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/esbenp.prettier-vscode-5.1.0/dist/extension
+[2020-06-28 22:40:36.534] [exthost] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"extensionId":{"value":"HookyQR.beautify","_lower":"hookyqr.beautify"},"activationEvent":"*"}
+[2020-06-28 22:40:36.534] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/hookyqr.beautify-1.5.0/extension
+[2020-06-28 22:40:36.604] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize {"startup":true,"extensionId":{"value":"kamikillerto.vscode-colorize","_lower":"kamikillerto.vscode-colorize"},"activationEvent":"*"}
+[2020-06-28 22:40:36.605] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/kamikillerto.vscode-colorize-0.8.17/out/src/extension
+[2020-06-28 22:40:36.655] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-06-28 22:40:36.656] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-06-28 22:40:36.657] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-06-28 22:40:36.657] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-06-28 22:40:37.157] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2020-06-28 22:40:37.157] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/robbowen.synthwave-vscode-0.1.5/src/extension.js
+[2020-06-28 22:40:37.167] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-06-28 22:40:37.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/vscode-icons-team.vscode-icons-10.1.1/dist/src/vscode-icons.bundle.js
+[2020-06-28 22:40:37.195] [exthost] [info] ExtensionService#_doActivateExtension WallabyJs.quokka-vscode {"startup":true,"extensionId":{"value":"WallabyJs.quokka-vscode","_lower":"wallabyjs.quokka-vscode"},"activationEvent":"*"}
+[2020-06-28 22:40:37.195] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/naman/.vscode/extensions/wallabyjs.quokka-vscode-1.0.301/index
+[2020-06-28 22:40:37.196] [exthost] [info] eager extensions activated
